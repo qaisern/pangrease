@@ -17,10 +17,8 @@ Features
 Installation
 ------------
 
-Install Python by running:
-	python.msi - Windows
-	python.dmg - Mac OS X
-if you do not already have Python installed on your PC or Mac.
+Install Python by navigating to: www.python.org/downloads
+if you do not already have Python installed on your device.
 
 Contribute
 ----------
